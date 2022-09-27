@@ -1,4 +1,4 @@
 {
-  "port": 3000,
-  "server": "http://project.luxmsbi.com"
+  "server": "http://project.luxmsbi.com",
+  "port": 3000
 }
